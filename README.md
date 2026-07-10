@@ -1,4 +1,4 @@
-# Hi there! I am Orlando Vega Herrera
+# Hi there! I am Orlando Vega
 ## About me 
 I am passionate about computer science and theoretical physics. My focus is on building a foundation clean code. My interest in theoretical physics is self-taught, and I plan to share divulgation and notes in the future.
 
