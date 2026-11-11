@@ -4,5 +4,6 @@ I am passionate about computer science and theoretical physics. My focus is on b
 
 * Study Fields: Programming logic, IT support, Full Stack Software Developer, Data Analyst, Data Science, Algorithms, Theoretical & Mathematical Physics.
 * Initial Tech Stack:  Python, IT Support, JavaScript, HTML, CSS,  and open-source tools.
-* Languages: Spanish (Native), English (Fluent), German (B1), French (B1), Japanese (B1).
+* Languages: Spanish (Native), English (Fluent), French (B1), Japanese (B1).
+
 
